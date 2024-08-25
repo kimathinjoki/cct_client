@@ -36,7 +36,7 @@ function HomeNavbar() {
             
                 <Link
                     className="flex items-center px-3 py-2 text-gray-600 transition-colors duration-300 transform rounded-lg dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 dark:hover:text-gray-200 hover:text-gray-700"
-                    to="/rating_tasks"
+                    to="/main/rating_tasks"
                 >
                     <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -57,7 +57,7 @@ function HomeNavbar() {
 
                 <Link
                     className="flex items-center px-3 py-2 text-gray-600 transition-colors duration-300 transform rounded-lg dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 dark:hover:text-gray-200 hover:text-gray-700"
-                    to="/candidate_consensus"
+                    to="/main/candidate_consensus"
                 >
                     <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@ function HomeNavbar() {
 
                 <Link
                     className="flex items-center px-3 py-2 text-gray-600 transition-colors duration-300 transform rounded-lg dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 dark:hover:text-gray-200 hover:text-gray-700"
-                    to="/reporting"
+                    to="/main/reporting"
                 >
                     <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -102,9 +102,9 @@ function HomeNavbar() {
                     <span className="mx-2 text-sm font-medium">Reporting</span>
                 </Link>
                 
-                <a
+                <Link
                     className="flex items-center px-3 py-2 text-gray-600 transition-colors duration-300 transform rounded-lg dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 dark:hover:text-gray-200 hover:text-gray-700"
-                    href="#"
+                    to="/main/setting"
                 >
                     <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -126,7 +126,7 @@ function HomeNavbar() {
                     />
                     </svg>
                     <span className="mx-2 text-sm font-medium">Setting</span>
-                </a>
+                </Link>
                 </nav>
                 <div className="mt-6">
     
@@ -138,7 +138,7 @@ function HomeNavbar() {
                         alt="avatar"
                     />
                     <span className="text-sm font-medium text-gray-700 dark:text-gray-200">
-                        John Doe
+                        Rater Uno
                     </span>
                     </a>
                     <a

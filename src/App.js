@@ -5,6 +5,8 @@ import { Route, Routes } from 'react-router-dom';
 import Landingpage from './components/pages/Landingpage';
 import Homepage from './components/pages/Homepage';
 import MainHome from './components/main/MainHome';
+import RatingTasks from './components/main/RatingTasks';
+import CandidateConsensus from './components/main/CandidateConsensus';
 
 function App() {
   return (
@@ -17,7 +19,8 @@ function App() {
         </Route>
         <Route path='/main' element={<Homepage/>}>
           <Route path='/main' element={<MainHome/>}/>
-
+          <Route path='/main/rating_tasks' element={<RatingTasks/>}/>
+          <Route path='/main/candidate_consensus' element={<CandidateConsensus/>}/>
         </Route>
 
       </Routes>
