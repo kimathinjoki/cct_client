@@ -4,8 +4,8 @@ function Signup() {
 
     return(
         <>
-            <section className="bg-white dark:bg-gray-900">
-            <div className="flex justify-center ">
+            <section className="bg-white  dark:bg-gray-900">
+            <div className="flex justify-center h-screen">
                 <div
                 className="hidden bg-cover lg:block lg:w-2/5"
                 style={{

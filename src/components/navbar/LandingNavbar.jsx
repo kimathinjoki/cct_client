@@ -30,8 +30,8 @@ function LandingNavbar() {
                 </div> */}
 
             <div class="flex items-center mt-2 -mx-2 sm:mt-0">
-                <a href="#" class="px-3 py-1 text-sm font-semibold text-white transition-colors duration-300 transform border-2 rounded-md hover:bg-gray-700">Sign In</a>
-                <a href="#" class="px-3 py-2 mx-2 text-sm font-semibold text-white transition-colors duration-300 transform bg-black rounded-md hover:bg-gray-800">Sign Up</a>
+                <Link to="/" class="px-3 py-1 text-sm font-semibold text-white transition-colors duration-300 transform border-2 rounded-md hover:bg-gray-700">Sign In</Link>
+                <Link to="/signup" class="px-3 py-2 mx-2 text-sm font-semibold text-white transition-colors duration-300 transform bg-black rounded-md hover:bg-gray-800">Sign Up</Link>
             </div>
 
 
