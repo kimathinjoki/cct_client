@@ -29,9 +29,6 @@ function CandidateConsensus () {
                         <h1 className="font-semibold text-gray-800 dark:text-white">
                         Robbert
                         </h1>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">
-                        CTO, Robert Consultency
-                        </span>
                     </div>
                     </div>
                     <div>
@@ -53,9 +50,6 @@ function CandidateConsensus () {
                         <h1 className="font-semibold text-gray-800 dark:text-white">
                         Jeny Doe
                         </h1>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">
-                        CEO, Jeny Consultency
-                        </span>
                     </div>
                     </div>
 
@@ -79,9 +73,6 @@ function CandidateConsensus () {
                         <h1 className="font-semibold text-gray-800 dark:text-white">
                         Mia Brown
                         </h1>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">
-                        Marketing Manager at Stech
-                        </span>
                     </div>
                     </div>
 
@@ -106,9 +97,7 @@ function CandidateConsensus () {
                         <h1 className="font-semibold text-gray-800 dark:text-white">
                         Lead Designer
                         </h1>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">
-                        Developer at Stech
-                        </span>
+                        
                     </div>
                     </div>
 
