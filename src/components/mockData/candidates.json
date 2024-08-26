@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Khraughbin Texas",
+      "image": "https://static01.nyt.com/images/2024/04/14/magazine/14mag-khruangbin/14mag-khruangbin-mediumSquareAt3X.jpg",
+      "rating": null
+    },
+    {
+      "id": 2,
+      "name": "Glass Beams",
+      "image": "https://glassbeams.com/cdn/shop/files/Glass-Beams-Press-Shot-Landscape-Online_2000x.jpg?v=1711104417",
+      "rating": null
+    },
+    {
+        "id": 3,
+        "name": "Arc De Soleil",
+        "image": "https://i.discogs.com/d_1OunGTCc_fqqK8u2Aab3W_1QyyewLqIHcSoDcwSDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyMDky/ODkzLTE2OTM3NDIw/MzctNzA0OS5qcGVn.jpeg",
+        "rating": null
+      },
+      {
+        "id": 4,
+        "name": "Orions Belte",
+        "image": "https://images.squarespace-cdn.com/content/v1/601588c9d5e6a55235d56746/0248c986-c010-4fcf-b3a5-36f95318e049/DW1A8261.jpg",
+        "rating": null
+      },
+      {
+        "id": 5,
+        "name": "Dominique que Dumont",
+        "image": "https://f4.bcbits.com/img/0029784224_25.jpg",
+        "rating": null
+      },
+      {
+        "id": 6,
+        "name": "The cavemen",
+        "image": "https://i.scdn.co/image/ab67616d00001e029d88d1884baf5cc8c3cde4c6",
+        "rating": null
+      },
+      {
+        "id": 7,
+        "name": "Gilbran Alcocer",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+        "rating": null
+      },
+      {
+        "id": 8,
+        "name": "Mac Demarco",
+        "image": "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/assets/v3/editorial/3/1d/31dbf6d4-ac22-53ed-9b33-ed6d722f95f2/646f9f173e92c.image.jpg?resize=750%2C500",
+        "rating": null
+      }
+    
+  ]
